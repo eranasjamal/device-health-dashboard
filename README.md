@@ -80,7 +80,7 @@ device-health-dashboard/
 │   └── queries.sql
 │
 ├── powerbi/
-│   └── device-health-dashboard.pbix
+│   └── Device Health & Incident Monitoring Dashboard.pbix
 │
 ├── images/
 │   ├── dashboard1.png
