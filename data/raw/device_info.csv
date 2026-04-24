@@ -1,0 +1,22 @@
+Device_ID,Device_Type,Location,Install_Date,Status
+D004,Switch,Chennai,2022-05-11,Inactive
+D002,Firewall,Mumbai,2024-11-10,Active
+D005,Switch,Hyderabad,2024-03-16,Active
+D006,router,Chennai,2023-04-05,Active
+D010,Router,Delhi,2023-10-09,Active
+D019,Router,Chennai,2022-10-23,Active
+D014,Firewall,Bangalore,2023-05-24,Inactive
+D012,Switch,Chennai,2024-02-16,Active
+D003,Firewall,delhi,2022-11-27,Active
+D011,Switchh,Hyderabad,2023-01-23,Active
+D018,Firewall,Hyderabad,2024-03-26,Active
+D017,Switch,Hyderabad,2022-07-21,Active
+D008,Firewall,Bangalore,2023-12-01,Active
+D016,Switch,Mumbai,2023-12-04,Active
+D007,Firewall,Mumbai,2023-04-20,Active
+D020,Switch,Delhi,2024-12-12,Active
+D001,Router,Bangalore,2025-01-31,Active
+D004,Switch,Chennai,2022-05-11,Inactive
+D015,Switch,Mumbai,2024-10-22,Active
+D009,Router, Mumbai ,2024-04-11,Active
+D013,Firewall,Hyderabad,2022-04-02,Active
