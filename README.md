@@ -121,7 +121,3 @@ device-health-dashboard/
 ## 🔗 Connect with Me
 
 LinkedIn: [www.linkedin.com/in/anasjamal](http://www.linkedin.com/in/anasjamal)
-
----
-
-⭐ If you found this project useful, consider giving it a star!
